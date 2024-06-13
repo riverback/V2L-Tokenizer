@@ -1,0 +1,4 @@
+checkpoints
+codebooks
+*.pyc
+**__pycache__**
